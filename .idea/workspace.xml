@@ -4,13 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbac007b-a5ed-496b-9d7b-d9e4333c4ad6" name="Changes" comment="Initialize new repository with src and res folders&#10;&#10;Created the initial structure for the project with two empty folders:&#10;- src: for source code files&#10;- res: for resource files like assets or configurations&#10;&#10;No code changes yet, just setting up the project directory structure." />
+    <list default="true" id="bbac007b-a5ed-496b-9d7b-d9e4333c4ad6" name="Changes" comment="Initialize new repository with src and res folders&#10;&#10;Created the initial structure for the project with two empty folders:&#10;- src: for source code files&#10;- res: for resource files like assets or configurations&#10;&#10;No code changes yet, just setting up the project directory structure.">
+      <change afterPath="$PROJECT_DIR$/src/c-sharp/CameraController/CameraController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c-sharp/RBsCubeController/RBsCubeController-CoordinateControlMethod-Animated-Orbit&amp;Spin-Front&amp;BackLayers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c-sharp/RBsCubeController/RBsCubeController-CoordinateControlMethod-Animated-Orbit&amp;Spin-Left&amp;RightLayers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c-sharp/RBsCubeController/RBsCubeController-CoordinateControlMethod-Animated-Orbit&amp;Spin-Top&amp;BottomLayers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c-sharp/RBsCubeController/RBsCubeController-CoordinateControlMethod-NoAnimation-Orbit&amp;Spin-AllLayers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c-sharp/RBsCubeController/RBsCubeController-ProjectionControlMethod-Animated-Orbit&amp;Spin-AllLayers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c-sharp/RBsCubeRotationer/RBsCubeRotationer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/3d/2025.01.29/RBsCube (centres coordinates)/RBsCube (centres coordinates).blend" beforeDir="false" afterPath="$PROJECT_DIR$/res/3d/2025.01.29/RBsCube (centres coordinates)/RBsCube (centres coordinates).blend" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
@@ -41,13 +55,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "<unknown>"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/zhengjunjie/Desktop/rbks-cube-ar/repo/AR-RBsCube/src/c-sharp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
       </set>
     </attachedChunks>
   </component>
@@ -59,6 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738277714555</updated>
+      <workItem from="1740688769754" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize new repository with src and res folders&#10;&#10;Created the initial structure for the project with two empty folders:&#10;- src: for source code files&#10;- res: for resource files like assets or configurations&#10;&#10;No code changes yet, just setting up the project directory structure.">
       <option name="closed" value="true" />
@@ -71,6 +93,9 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -82,7 +107,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
